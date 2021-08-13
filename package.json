@@ -1,0 +1,26 @@
+{
+  "name": "daily-motivation-quotes",
+  "version": "1.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanuelalvaradog/random-motivational-quotes.git"
+  },
+  "author": "Emanuel <emanuelalvaradog@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "daily-motivation": "./bin/global.js"
+  },
+  "bugs": {
+    "url": "https://github.com/emanuelalvaradog/random-motivational-quotes/issues"
+  },
+  "homepage": "https://github.com/emanuelalvaradog/random-motivational-quotes#readme",
+  "preferGlobal": true,
+  "dependencies": {
+    "daily-motivation-quotes": "^1.0.0"
+  }
+}
