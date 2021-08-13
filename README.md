@@ -1,5 +1,6 @@
 # daily-motivation-quotes
 
+This is my first npm package published :)
 I'll be adding new quotes to the package. I bet you can do a become the person you want to be :)
 
 ## Install
